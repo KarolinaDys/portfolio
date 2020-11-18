@@ -17,8 +17,8 @@ body {
   background-position: 0 0;
   background-size: auto 100%;
   /*speed*/
-  -webkit-animation: animatedBackground 80s linear infinite;
-          animation: animatedBackground 80s linear infinite;
+  -webkit-animation: animatedBackground 60s linear infinite;
+          animation: animatedBackground 60s linear infinite;
 }
 
 @-webkit-keyframes animatedBackground {
@@ -42,7 +42,7 @@ body {
 .container {
   text-align: center;
   padding: 40px;
-  margin-top: 100px;
+  margin-top: 30px;
 }
 
 .unicorn {
@@ -78,11 +78,13 @@ h1 {
   font-family: 'Press Start 2P';
   font-size: 35px;
   color: #d694d3;
+  text-align: center;
 }
 
 h2 {
   font-family: 'Press Start 2P';
   font-size: 20px;
   color: #75c4bd;
+  text-align: center;
 }
 /*# sourceMappingURL=style.css.map */
